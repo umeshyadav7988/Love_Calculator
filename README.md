@@ -21,5 +21,5 @@ Love Calculator is a simple web application built using HTML, CSS, JavaScript, a
 ## How to Use
 
 1. Clone the repository to your local machine.
-https://github.com/umeshyadav7988 /love_calculator.git
+https://github.com/umeshyadav7988 /Love_Calculator.git
 
